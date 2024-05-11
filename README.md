@@ -1,4 +1,4 @@
-# Data_Science_Py
+# Sales Analysis using Python
 
 In this project I use Visual Studio Code, Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, order ID and more...
 
